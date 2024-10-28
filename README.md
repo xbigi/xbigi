@@ -1,6 +1,6 @@
 # xbigi's GitHub Profile
 
-Hello, welcome to my GitHub profile! Here you can find an overview of my skills, projects, and interests. I'm passionate about coding and building small projects. Aside from programming, I enjoy music, playing games, and tinkering with computers.
+👋 Hello, welcome to my GitHub profile! Here you can find an overview of my skills, projects, and interests. I'm passionate about coding and building small projects. Aside from programming, I enjoy music, playing games, and tinkering with computers.
 
 
 
