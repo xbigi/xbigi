@@ -1,50 +1,53 @@
-<h2 align="left">xbigi<br>19<br>Italy</h2>
+# xbigi's GitHub Profile
 
-###
+Hello, welcome to my GitHub profile! Here you can find an overview of my skills, projects, and interests. I'm passionate about coding and building small projects. Aside from programming, I enjoy music, playing games, and tinkering with computers.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/xbigi/count.svg?"  />
-</div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xbigi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xbigi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Projects
 
-###
+Here are some of my projects that i started with:
 
-<div align="left">
-  <a href="https://discord.gg/WmbHkJEb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+### Extract-mp4-from-folder
 
-###
+[![Extract-mp4-from-folder](https://github-readme-stats.vercel.app/api/pin/?username=xbigi&repo=Extract-mp4-from-folder)](https://github.com/xbigi/Extract-mp4-from-folder)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+This is a Python tool I developed to extract MP4 videos from subfolders to the main folder. It automates the process and helps in organizing and consolidating video files. Check out the repository for more details!
 
-###
+### xbigi
 
-<br clear="both">
+[![xbigi](https://github-readme-stats.vercel.app/api/pin/?username=xbigi&repo=xbigi)](https://github.com/xbigi/xbigi)
 
-<img src="https://raw.githubusercontent.com/xbigi/xbigi/output/snake.svg" alt="Snake animation" />
+This is my personal profile project, where I showcase my skills and provide information about myself. It demonstrates my ability to create interactive and visually appealing webpages using HTML, CSS, and other technologies. Feel free to explore the repository!
 
-###
+## GitHub Statistics
 
-<div align="center">
-  <a href="https://open.spotify.com/user/azx7kps35rvku7qg7mdyc5m2a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=azx7kps35rvku7qg7mdyc5m2a&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=xbigi)
 
-###
+This section showcases my GitHub statistics, including the number of repositories, contributions, stars, and more. It provides a quick overview of my overall activity on GitHub.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xbigi)
+
+The above badge shows the programming languages I have been using in my repositories.
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=xbigi)](https://github.com/xbigi)
+
+This trophy cabinet displays my achievements and contributions on GitHub. 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xbigi)](https://git.io/streak-stats)
+
+This GitHub Streak chart represents my daily coding streak. 
+
+## About Me
+
+I am a 19-year-old programmer based in Italy. Despite being relatively new to GitHub, I am actively learning and improving my coding skills. My projects, although primarily built for personal use, could be beneficial for others as well.
+
+## Contact Me
+
+💬 [Discord](https://discord.gg/WmbHkJEb)
+
+Feel free to reach out to me via Discord if you have questions, or just want to chat. I'm a friendly and approachable person, always happy to meet new people :)
+
+## Fun Fact
+
+"**There are two ways to write error-free programs; only the third one works.**" - Unknown
