@@ -1,24 +1,12 @@
 # xbigi's GitHub Profile
 
-👋 Hello, welcome to my GitHub profile! Here you can find an overview of my skills, projects, and interests. I'm passionate about coding and building small projects. Aside from programming, I enjoy music, playing games, and tinkering with computers.
+👋 Hello, welcome to my GitHub profile! Here you can find an overview of my skills,school exercises,projects, and interests. I'm passionate about coding and building small projects. Aside from programming, I enjoy music, playing games, and tinkering with computers.
 
-
-
-## Projects
-
-Here are some of my projects that i started with:
-
-### Extract-mp4-from-folder
-
-[![Extract-mp4-from-folder](https://github-readme-stats.vercel.app/api/pin/?username=xbigi&repo=Extract-mp4-from-folder)](https://github.com/xbigi/Extract-mp4-from-folder)
-
-This is a Python tool I developed to extract MP4 videos from subfolders to the main folder. It automates the process and helps in organizing and consolidating video files. Check out the repository for more details!
 
 ### xbigi
 
 [![xbigi](https://github-readme-stats.vercel.app/api/pin/?username=xbigi&repo=xbigi)](https://github.com/xbigi/xbigi)
 
-This is my personal profile project, where I showcase my skills and provide information about myself. It demonstrates my ability to create interactive and visually appealing webpages using HTML, CSS, and other technologies. Feel free to explore the repository!
 
 ## GitHub Statistics
 
