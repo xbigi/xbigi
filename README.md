@@ -32,7 +32,7 @@ I am a 19-year-old programmer based in Italy. Despite being relatively new to Gi
 
 ## Contact Me
 
-💬 [Discord](https://discord.gg/WmbHkJEb)
+💬 [Discord](https://discord.gg/KRNwYq6T)
 
 Feel free to reach out to me via Discord if you have questions, or just want to chat. I'm a friendly and approachable person, always happy to meet new people :)
 
