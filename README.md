@@ -3,7 +3,7 @@
 
 Student in Computer Science & Telecommunications from Italy.
 
-Interested in software development, Linux, networking, self-hosting(hail to raspberry) and web technologies.
+Interested in software development, Linux, networking, self-hosting and web technologies.
 
 I enjoy creating small projects, experimenting with systems and learning new technologies through practical work.
 
