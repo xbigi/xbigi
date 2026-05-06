@@ -8,12 +8,13 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=xbigi&show_icons=true&theme=dracula&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=xbigi&show_icons=true&theme=dracula&hide_border=true"
     height="150"
     alt="GitHub stats"
   />
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbigi&layout=compact&theme=dracula&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xbigi&layout=compact&theme=dracula&hide_border=true"
     height="150"
     alt="Top languages"
   />
