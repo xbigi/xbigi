@@ -1,41 +1,32 @@
-# xbigi's GitHub Profile
+# Hey👋, I'm Diljit
+### Student
 
-👋 Hello, welcome to my GitHub profile! Here you can find an overview of my skills,school exercises,projects, and interests. I'm passionate about coding and building small projects. Aside from programming, I enjoy music, playing games, and tinkering with computers.
+Student in Computer Science & Telecommunications from Italy.
 
+Interested in software development, Linux, networking, self-hosting(hail to raspberry) and web technologies.
 
-### xbigi
-
-[![xbigi](https://github-readme-stats.vercel.app/api/pin/?username=xbigi&repo=xbigi)](https://github.com/xbigi/xbigi)
-
-
-## GitHub Statistics
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xbigi)
-
-This section showcases my GitHub statistics, including the number of repositories, contributions, stars, and more. It provides a quick overview of my overall activity on GitHub.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xbigi)
-
-The above badge shows the programming languages I have been using in my repositories.
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=xbigi)](https://github.com/xbigi)
-
-This trophy cabinet displays my achievements and contributions on GitHub. 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=xbigi)](https://git.io/streak-stats)
-
-This GitHub Streak chart represents my daily coding streak. 
-
-## About Me
-
-I am a 19-year-old programmer based in Italy. Despite being relatively new to GitHub, I am actively learning and improving my coding skills. My projects, although primarily built for personal use, could be beneficial for others as well.
+I enjoy creating small projects, experimenting with systems and learning new technologies through practical work.
 
 ## Contact Me
+<p><a href="https://xbigi.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-💬 [Discord](https://discord.gg/KRNwYq6T)
+## Skills
 
-Feel free to reach out to me via Discord if you have questions, or just want to chat. I'm a friendly and approachable person, always happy to meet new people :)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+</p>
 
-## Fun Fact
+## GitHub Stats
 
-"**There are two ways to write error-free programs; only the third one works.**" - Unknown
+<img src="https://github-readme-stats.vercel.app/api?username=xbigi&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbigi&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xbigi&theme=default" alt="GitHub Streak" />
+
