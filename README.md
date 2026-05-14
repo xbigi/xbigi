@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Diljit, a Computer Science student from Italy</h2>
+<h2 align="left">Hi 👋! I'm Diljit, an ICT student from Italy</h2>
 
 <p align="left">
   Interested in software development, Linux, networking, self-hosting and creating tools I personally find useful.
